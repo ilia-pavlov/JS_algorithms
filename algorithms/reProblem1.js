@@ -11,7 +11,6 @@ let DB = {
         let result = this.num1 * this.num2
         console.log(result);
         return result;
-        
     },
     makeDouble: function() {
         let double = this.multiplyNums() * this.multiplyNums()
